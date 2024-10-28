@@ -3,7 +3,7 @@
 
 title: Working with enourmous 3D imaging datasets
 author: David Stansby
-logo: logo.png
+# logo: logo.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html

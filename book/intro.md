@@ -1,11 +1,14 @@
-# Welcome to your Jupyter Book
+# Working with huge 3D imaging datasets
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+This is a digital textbook explaining how to work with huge 3D imaging datsets using modern data formats.
 
-Check out the content pages bundled with this sample book to see more.
 
 ```{tableofcontents}
 ```
+
+## Acknowledgements
+
+This book is part of the Handling Enourmous Files from Tomographic Imaging Experiments (HEFTIE) project.
+HEFTIE is funded by the [OSCARS project](https://oscars-project.eu/), which has received funding from the European Commission’s Horizon Europe Research and Innovation programme under grant agreement No. 101129751.
+
+![OSCARS and EU logos](images/OSCARS-logo-EUflag.png)

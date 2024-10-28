@@ -22,10 +22,10 @@ A digital textbook for working with huge 3D imaging datasets
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-## Developing
+## Contributing
 
-### Building the book locally
-Run
+This book is built using [Jupyter Book](https://jupyterbook.org/en/stable/intro.html).
+To build the book locally run:
 
 ```bash
 jupyter-book build book
@@ -37,4 +37,4 @@ jupyter-book build book
 
 This project is funded by the [OSCARS project](https://oscars-project.eu/), which has received funding from the European Commission’s Horizon Europe Research and Innovation programme under grant agreement No. 101129751.
 
-![OSCARS and EU logos](images/OSCARS-logo-EUflag.png)
+![OSCARS and EU logos](book/images/OSCARS-logo-EUflag.png)
