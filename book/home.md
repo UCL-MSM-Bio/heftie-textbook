@@ -1,8 +1,10 @@
-# Working with huge 3D imaging datasets
+# Handling Enourmous Files from 3D Imaging Experiments
 
-This is a digital textbook explaining how to work with huge 3D imaging datsets using modern data formats.
+Welcome to the textbook for working with huge 3D imaging datasets!
+This textbook explains how to work with huge 3D imaging datsets using modern data formats.
 
 
+## Contents
 ```{tableofcontents}
 ```
 
