@@ -352,6 +352,7 @@ dependencies = [
     { name = "jupyter-book" },
     { name = "matplotlib" },
     { name = "numpy" },
+    { name = "sphinx" },
 ]
 
 [package.metadata]
@@ -359,6 +360,7 @@ requires-dist = [
     { name = "jupyter-book", specifier = "==1.0.2" },
     { name = "matplotlib", specifier = "==3.9.2" },
     { name = "numpy", specifier = "==2.1.1" },
+    { name = "sphinx", specifier = ">=7.4.7" },
 ]
 
 [[package]]
