@@ -31,7 +31,6 @@ For simplicitly in this book we'll focus on grayscale, or single-channel images.
 These are images where each pixel stores a single value.
 Colour, or multi-channel images store multiple values per pixel (e.g., values for the red, green, and blue (RGB) components), and the same principles generally apply, just across multiple channels.
 
-
 That's a lot of words without a single image yet!
 Lets generate a random 16-bit 4 x 4 image as an exmaple to take us through the rest of this chapter
 
@@ -47,12 +46,14 @@ ax.imshow(image, cmap="Grays", vmin=0, vmax=2**16);
 ```
 
 We can also look at what this looks like in computer memory:
+
 ```{code-cell}
 image_bytes = image.tobytes()
 print(image_bytes)
 ```
 
 ## Data compression
+
 - Brief overview of lossless/lossy compression
 - Include read/write benchmarks
 - Talk about cost of read/write compression
