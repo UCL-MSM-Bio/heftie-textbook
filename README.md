@@ -4,6 +4,9 @@ A digital textbook for working with huge 3D imaging datasets
 > [!WARNING]
 > This book is still a work in progress - it might not make complete sense yet! Feedback is very welcome, by [opening a new issue](https://github.com/UCL-MSM-Bio/heftie-textbook/issues/new).
 
+![HEFTIE logo](book/images/heftie_logo.svg)
+
+
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
